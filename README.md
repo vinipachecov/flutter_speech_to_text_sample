@@ -1,16 +1,13 @@
-# voice_recognition_tutorial
+# Speech to text tutorial
 
-A new Flutter project.
+This repository is a follow along code from Marcus Ng tutorial:
+[Flutter Speech to Text App Tutorial | Voice Recognition](https://www.youtube.com/watch?v=wDWoD1AaLu8&ab_channel=MarcusNg)
 
-## Getting Started
+Libraries used:
 
-This project is a starting point for a Flutter application.
+* speech_to_text: recognize speech and translate to text
+* highlight_text: highlight words recognized in the speech
+* avatar_glow: animation for the FAB button
 
-A few resources to get you started if this is your first Flutter project:
+[Original code from Marcus Ng](https://github.com/MarcusNg/flutter_voice)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
